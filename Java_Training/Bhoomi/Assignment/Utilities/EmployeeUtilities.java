@@ -1,9 +1,9 @@
 
 package Bhoomi.Assignment.Utilities;
 
-import Pratik.assignment.employees.Developer;
-import Pratik.assignment.employees.Employee;
-import Pratik.assignment.employees.Manager;
+import Bhoomi.assignment.employees.Developer;
+import Bhoomi.assignment.employees.Employee;
+import Bhoomi.assignment.employees.Manager;
 
 
 public class EmployeeUtilities {
